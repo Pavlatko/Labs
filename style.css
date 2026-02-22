@@ -77,10 +77,12 @@ header p {
 }
 
 .card-image {
-    height: 180px;
+    width: 100%;
+    aspect-ratio: 1 / 1; /* Toto vynutí dokonalý čtverec */
     background-size: cover;
     background-position: center;
-    background-color: #334155; /* Fallback barva */
+    background-repeat: no-repeat;
+    background-color: #334155;
     transition: transform 0.5s ease;
 }
 
