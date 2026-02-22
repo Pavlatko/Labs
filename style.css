@@ -120,3 +120,10 @@ footer {
     header h1 { font-size: 2rem; }
     .grid { gap: 1.5rem; }
 }
+
+.main-logo {
+    max-width: 150px; /* Uprav si velikost podle potřeby */
+    height: auto;
+    margin-bottom: 1rem;
+    filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.5));
+}
