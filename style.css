@@ -35,7 +35,7 @@ header {
 
 header h1 {
     font-family: 'Orbitron', sans-serif;
-    font-size: 3rem;
+    font-size: 2rem;
     letter-spacing: 4px;
     margin-bottom: 0.5rem;
 }
@@ -124,7 +124,7 @@ footer {
 }
 
 .main-logo {
-    max-width: 150px; /* Uprav si velikost podle potřeby */
+    max-width: 200px; /* Uprav si velikost podle potřeby */
     height: auto;
     margin-bottom: 1rem;
     filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.5));
